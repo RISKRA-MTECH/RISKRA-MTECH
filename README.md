@@ -18,3 +18,6 @@ I am a computer science student passionate about software development, data anal
 - Game Design and Development  
 - Data Analytics
 - Volleyball
+
+---
+*Check out my projects on [Github](github.com/R-Iskra)
