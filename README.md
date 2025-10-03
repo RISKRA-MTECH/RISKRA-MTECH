@@ -1,16 +1,20 @@
-## Hi there 👋
+# Ryan Iskra
 
-<!--
-**RISKRA-MTECH/RISKRA-MTECH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Picture](https://via.placeholder.com/150)
 
-Here are some ideas to get you started:
+## Short Biography
+I am a computer science student passionate about software development, data analysis, and game design. I enjoy solving problems, learning new technologies, and building creative projects that blend logic with design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+- **A.S. in Computer Science** - Flathead Valley Community College (2023 - 2024)
+- **B.S. in Computer Science** — Montana Technologial University (2024 - Present)
+
+## Skills
+- Programming: Python, C, Java, HTML/CSS, JavaScript, PHP
+- Tools: Git, Jupyter, SQL
+- Interests: Data Visualization, Game Development, AI/ML
+
+## Interests
+- Game Design and Development  
+- Data Analytics
+- Volleyball
