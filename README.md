@@ -1,6 +1,6 @@
 # Ryan Iskra
 
-![Profile Picture](https://via.placeholder.com/150)
+![Profile Picture](IMG_2810.jpeg)
 
 ## Short Biography
 I am a computer science student passionate about software development, data analysis, and game design. I enjoy solving problems, learning new technologies, and building creative projects that blend logic with design.
