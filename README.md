@@ -20,4 +20,4 @@ I am a computer science student passionate about software development, data anal
 - Volleyball
 
 ---
-*Check out my projects on [Github](github.com/R-Iskra)
+*Check out my projects on [Github](https://github.com/R-Iskra)
